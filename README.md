@@ -8,7 +8,7 @@ The app launches a window displaying a map and a panel.
 
 ![screenshot](screenshot.png)
 
-![Shapefile2BufferKMZ](https://user-images.githubusercontent.com/18401030/75616017-a8bf3700-5b4b-11ea-9c6b-4f8067457890.gif)
+![Shapefile2BufferKMZ](https://user-images.githubusercontent.com/18401030/75625767-7f40f280-5bc1-11ea-823f-f54963164510.gif)
 
 ## How it works
 
